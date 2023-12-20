@@ -250,8 +250,8 @@ echo
 
 create_skel_dirs
 echo
-#download_files
-#verify_files
+download_files
+verify_files
 extract_files
 
 set targets x86_64 aarch64 riscv64
